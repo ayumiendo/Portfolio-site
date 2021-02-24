@@ -97,9 +97,6 @@ li {
   padding: 120px 0;
 }
 
-.section:nth-of-type(odd) {
-  background-color: #f3f3f3;
-}
 
 .inner {
   max-width: 1380px;
