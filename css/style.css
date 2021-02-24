@@ -208,6 +208,12 @@ li {
 /*--------------------------------
  Works
 ---------------------------------*/
+
+.works-section{
+  background-color: #f3f3f3;
+}
+
+  
 .works-list {
   display: flex;
   flex-wrap: wrap;
@@ -326,6 +332,12 @@ li {
 /*--------------------------------
  Contact
 ---------------------------------*/
+
+.contact-section{
+     background-color: #f3f3f3;
+  }
+
+
 .contact-list {
   display: flex;
   align-items: flex-end;
@@ -555,9 +567,7 @@ li {
     margin: 0 10px;
   }
   
-  .contact-section{
-     background-color: #f3f3f3;
-  }
+ 
 
   /* フッター */
   .footer .inner {
